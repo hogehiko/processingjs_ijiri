@@ -1,0 +1,16 @@
+{
+  "name": "processingjs_ijiri",
+  "version": "0.0.0",
+  "homepage": "https://github.com/hogehiko/processingjs_ijiri",
+  "authors": [
+    "hogehiko"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
